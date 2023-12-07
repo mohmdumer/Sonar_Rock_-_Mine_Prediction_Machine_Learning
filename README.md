@@ -1,1 +1,1 @@
-# Sonar_Rock_-_Mine_Prediction_Machine_Learning
+# Sonar_Rock_Mine_Prediction_Machine_Learning
