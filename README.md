@@ -1,4 +1,4 @@
-# Sonar_Rock_Mine_Prediction_in_Machine_Learning
+# Sonar_Rock & Mine_Prediction_in_Machine_Learning
 --Importing Dependencies:
 The following dependencies are required for this project:
 ![importing_depdencies](https://github.com/mohmdumer/Sonar_Rock_-_Mine_Prediction_Machine_Learning/assets/120613470/2ebca4d1-4253-4a9c-afb5-038ca2243e33)
